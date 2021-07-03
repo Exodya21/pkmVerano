@@ -1,4 +1,8 @@
-<?php require '/inc/header.php'; ?>
+<?php 
+require '/inc/header.php'; 
+?>
 
 
-<?php require '/inc/footer.php'; ?>
+<?php 
+require '/inc/footer.php'; 
+?>
